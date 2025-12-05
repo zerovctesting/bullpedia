@@ -7,7 +7,6 @@ app = "bullpedia"
 primary_region = "sjc"
 
 [build]
-  builder = "dockerfile"
 
 [env]
   PORT = "8080"
