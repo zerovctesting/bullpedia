@@ -1,4 +1,4 @@
-export interface PageContent {
+interface PageContent {
     title: string;
     shortBio: string;
     mainContent: string;

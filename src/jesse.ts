@@ -1,4 +1,8 @@
-import { PageContent } from './index';
+interface PageContent {
+    title: string;
+    shortBio: string;
+    mainContent: string;
+}
 
 const jessePageData: PageContent = {
     title: "Jesse Lyu",
