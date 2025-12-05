@@ -1,0 +1,13 @@
+{
+  "name": "bullpedia",
+  "version": "1.0.0",
+  "description": "A minimalistic Wikipedia-style page",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}

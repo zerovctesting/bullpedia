@@ -1,0 +1,562 @@
+[music]
+Open AAI is an AI startup that has
+raised money from venture capitalists.
+Open AAI is also a venture capitalist in
+its own right. Open AAI operates the
+OpenAI startup fund which has $175
+million to invest in startups. In
+February of 2024, they participated in a
+$675 million funding round into a
+humanoid robot startup called Figure AI.
+About one year later, in June of 2025,
+Sam Alman gave an interview to
+Bloomberg. It seems that he's really
+excited about humanoid robots because he
+brought up the topic completely
+unprompted. Let's have a listen.
+>> Meanwhile, AI is destroying jobs
+elsewhere. And I feel like even, you
+know, there is serious anxiety out
+there. People are scared.
+>> Totally.
+>> Even among the best engineers and
+technologists, people are scared. Um,
+what do you say to those people?
+AI is for sure going to change a lot of
+jobs, totally take some jobs away,
+create a bunch of new ones.
+>> And the thing that is different this
+time is just the rate with which it
+looks like it will happen.
+>> Mhm.
+>> Um the thing I think the world is not
+ready for, like people have maybe
+abstractly thought like, okay, it's
+going to be a better programmer than me.
+It's going to be, you know, better at
+customer support and whatever. Um I
+don't think the world has really had the
+humanoid robots
+>> moment yet.
+And I don't think that's very far away
+from like a visceral like, oh man, this
+is going to do a lot of things that
+people used to do. So, so yeah, it's
+coming and we we have always tried to
+just be super honest about what we think
+the impact may be, realizing it will be
+wrong on a lot of details.
+>> What happens when the humanoid robots
+get here? Um,
+I mean they'll obviously do a lot of
+jobs, but what I the point I was trying
+to make is I think like the first day
+you're like walking down the street and
+there's like seven robots that walk past
+you doing things or whatever, it's going
+to feel very sci-fi.
+>> Mhm.
+>> Sam Alman believes that within the near
+future, there will be seven humanoid
+robots walking down every street and
+they'll take everyone's jobs. Open AAI
+isn't developing any humanoid robots on
+its own. Sam Alman probably thinks
+Figure AAI is going to develop these
+humanoid robots. As a shareholder,
+OpenAI will benefit from the upside.
+Figure AI has released some impressive
+looking demo videos which have garnered
+a lot of media attention. But upon
+further inspection, there are some
+massive red flags with the company. In
+this video, we'll take a deep dive into
+the humanoid robot industry in general
+and figure AI in particular and try to
+separate hype from reality.
+As we will see in this video, we're
+probably never going to have humanoid
+robots doing our household chores within
+our lifetimes. But one thing most of us
+need to do every month is pay our rent.
+Recently, I've started using Built
+Rewards to pay my rent, which is also
+the sponsor of today's video. When I
+first heard about Built, my first
+reaction was, I wish I had started
+sooner. There's no cost to join, and you
+can start earning rewards on rent no
+matter where you live. You don't even
+have to check with your landlord first.
+When you pay your rent through Built,
+you earn Built points, the industry's
+most valuable and flexible points. In
+addition to your rent, if you link your
+credit card to Built, you can also earn
+points when you spend money at Built
+Partners. You can redeem these points to
+pay for airline tickets, hotels,
+restaurants, fitness classes, and lift
+rides. Or you can just redeem them
+towards your next month's rent. If you
+rent where you live, joining Build is
+really a no-brainer. But don't just take
+my word for it. Try it out for yourself
+and start earning points today. Sign up
+through the link in the description
+below or scan the QR code on screen and
+make sure to use my URL so they know I
+sent you. And now back to the video.
+Figure AI is a relatively new company.
+It was founded in 2022 by a man named
+Brett Adcock. Adcock has a very
+interesting resume. In 2013, Adcock
+co-founded an online hiring platform
+called Better. His other co-founder was
+a man named Adam Goldstein. In 2018,
+they sold Better to the human resources
+giant Adico. Having received their big
+payday from their HR startup, Adcock and
+Goldstein decided to co-found a much
+sexier startup. Later that same year,
+the two men founded a company called
+Archer Aviation. Archer aimed to develop
+a vertical takeoff and landing or EV
+tall aircraft. Archer went public by
+merging with a spack in 2021. At the
+time Archer went public, Goldstein and
+Adcock both served as co-CEOs of the
+company. We've made multiple videos
+about Archer in the past. We have an
+extremely negative view of the company.
+Archer's original design was not fit for
+purpose, so they had to redesign it.
+They have staged multiple fake
+deliveries, even though they have not
+yet sold a single aircraft to a
+customer. In June of 2025, they
+published a video of their first piloted
+test flight, but they used their old
+design, which cannot do a transition
+flight and will never enter commercial
+service. If you want a fuller
+explanation of the Archer Aviation
+story, you can watch our two previous
+videos about the company, link in the
+description below. But here's the bottom
+line. Archer developed an aircraft
+design that was not fit for purpose.
+They had to completely change the
+design. They were not transparent about
+this. In our opinion, they've been
+extremely misleading with their public
+statements and demonstrations. They try
+to fool their gullible shareholders into
+thinking their aircraft is closer to
+commercial service than it actually is.
+And even if it did work as intended, it
+would probably not be economically
+viable. The fact that Archer is facing
+technical difficulties shouldn't come as
+a huge surprise. It was founded by two
+men whose original claim to fame was
+creating an online recruiting service. I
+don't know why anyone thought they had
+the expertise to develop an electric
+aircraft. In April of 2022, Brett Adcock
+stepped down as co-CEO of Archer
+Aviation. The company decided that the
+co-CEO structure was inefficient. Adam
+Goldstein became the sole CEO. Having
+stepped down from Archer, Adcock decided
+to found yet another startup, and this
+next one would be perhaps his most
+ambitious venture yet. In 2022, Brett
+Adcock founded Figure AI using $10
+million of his own money as seed
+capital. He hired former employees from
+Boston Dynamics in Tesla. Figure's goal
+is to produce autonomous humanoid robots
+that can perform a wide range of tasks
+currently done by human workers. Adcock
+doesn't have any formal education or
+experience in AI or robotics. In the
+early days of Figure, Adcock took online
+AI courses and read books about
+robotics. This is according to former
+employees. Despite his lack of
+experience, Adcock seemed confident he
+could accomplish what many large
+companies have failed to do for decades.
+In March of 2023, they published a CGI
+video of a humanoid robot. It has a
+sleek futuristic design similar to that
+of Tesla's Optimus robot. Figures stated
+goal is to begin generating revenue as
+quickly as possible. Their first
+envisaged use cases will be in factories
+and warehouses. Shortly after publishing
+their first CGI video, Adcock told the
+Fast Company, quote, "Existing humanoids
+today have just been stunts and demos.
+We want to get away from that and show
+that they can be really useful."
+In October of 2023, Figure published the
+first real footage of its robot, which
+it called Figure 1. It walked in a
+straight line. In May of 2023, Figure
+raised $70 million from various venture
+capital firms at a reported valuation of
+$400 million.
+Media and investor hype around Figure
+really started to pick up in 2024. In
+January of 2024, they announced a
+partnership with BMW. BMW agreed to
+start experimenting with Figur's robots
+at their assembly plant in South
+Carolina. If the tests go well, they may
+decide to scale up the use of the
+robots. BMW would use Figure second
+generation robot called the Figure 2,
+which is supposedly more advanced and
+capable than Figure 1. The BMW
+partnership was a gamecher in terms of
+investor perception. Despite the company
+being less than two years old, it looked
+like they were making rapid progress
+towards a real commercial use case. In
+February of 2024, just a month after
+announcing the BMW partnership, Figure
+raised a massive $675 million funding
+round. Participating investors included
+Jeff Bezos, Nvidia, and the OpenAI
+startup fund. The round valued figure at
+$2.6 billion.
+In February of 2024, Adcock reportedly
+wrote the following in a LinkedIn post.
+quote, "We signed our first commercial
+customer, BMW, a year ago. We currently
+have a fleet of robots performing
+end-to-end operations," unquote. I
+couldn't find this post, so I believe he
+subsequently deleted it, but this
+statement was reported by multiple media
+outlets at the time. On March 31st,
+2025, Figure posted this video on its
+official Instagram page. The video shows
+a figure 2 robot placing some pieces of
+sheet metal onto a stamping machine. The
+video is captioned, quote, "This isn't a
+test. This is what autonomous robots in
+production operations look like. The
+caption uses the word robots plural, but
+it only shows a single figure 2 robot.
+It then shows the BMW assembly line,
+which includes a large number of
+industrial robots not made by Figure.
+Automobile manufacturers have used
+robotic arms and other industrial robots
+for decades. What's new about the figure
+is the fact that it's humanoid. One
+thing that's interesting to note in the
+video is you don't see a single human
+worker.
+BMW's factory in South Carolina is
+already heavily automated. It has
+thousands of industrial robots which
+already do the vast majority of the
+welding, painting, and many other tasks.
+Notice that wherever robots are
+operating, they're surrounded by cages.
+This is done for safety purposes so that
+human workers don't stand too close to
+the robot and risk being hit by the
+robot arm. The main body of the vehicle
+is welded and painted by large
+industrial robots. Then it goes to the
+assembly line where human workers
+install a lot of small parts. This
+involves crawling into the vehicle and
+doing a lot of intricate motions. These
+are things that are difficult for a
+robot to do. That's why they still use
+human workers. The cars are constantly
+moving on a very slow assembly line. The
+human workers need to complete the tasks
+on time. Any delay would require the
+entire line to stop. Most modern vehicle
+factories have operated in this manner
+for decades. Large industrial robots can
+pretty easily handle the big stuff. The
+smaller intricate parts are installed by
+humans on the final assembly line. The
+whole purpose of a humanoid robot is
+that it's supposed to perform intricate
+tasks previously done by humans.
+Otherwise, you're probably better off
+using stationary robot arms like most
+automakers have already been using for
+decades. If we go back to the Instagram
+video figure published in March of 2025,
+it is not on the final assembly line
+where the human workers are. It's in its
+own separate area performing an
+extremely simple and repetitive task
+that could easily be done by a
+stationary robot arm.
+In April 2025, Figure found itself in
+controversy. Jason Del Rey, a reporter
+at Fortune magazine, reached out to BMW
+to ask about the Figure partnership. BMW
+told him that they were only running
+offhour tests with just a single
+humanoid working at any given time and
+only on a single task, retrieving metal
+sheets and placing them into fixtures to
+get ready for welding. This contradicts
+Adcock's previous claim that they had a
+fleet of robots performing end-to-end
+operations at BMW. The whole thing looks
+a lot more like a staged PR demo than
+something that's actually useful to BMW.
+In June of 2025, Adcock attended a
+Bloomberg event where he was asked about
+the BMW partnership. The stated um known
+customer that you have is BMW, a car
+company. You have said that you have
+robots deployed at at BMW. What kind of
+tasks are they doing there and in what
+volume are they deployed with that
+company? Yeah. So, we um we currently
+are doing a basically a job in the body
+shop uh where we basically move sheet
+metal back and forth. Uh you know, the
+goal is to be able to put it on
+fixtures, then those get welded into a
+car chassis. Um so, we're doing that uh
+role uh every day. Um today, I don't
+know what the time it is on the East
+Coast if we're still doing it, but like
+uh and um and then we're going to spend
+a lot more time. Well, we already are,
+but we're going to spend a lot more
+effort just basically expanding to more
+use cases throughout the rest of the
+year.
+>> He explains that the robot is moving
+sheet metal back and forth, but
+throughout the rest of the year, they
+will expand to more use cases. In fact,
+they are already expanding to more use
+cases. 4 months later, in October of
+2025, Adcock posted the following on
+Twitter. This week, Figure has passed 5
+months running on the BMW X3 body shop
+production line. We've been running 10
+hours per day every single day of
+production. It is believed that Figure
+and BMW are the first in the world to do
+this with humanoid robots. In the
+attached video, the Figure robot is
+doing the same simple repetitive task,
+taking sheet metal and placing them into
+fixtures. No sign of any expansion of
+use cases. The video is massively sped
+up, so we don't know how fast it's
+actually moving. And again, we only see
+a single humanoid robot, not a flea.
+There is no tool use, fasteners,
+multi-step manipulation, or any task
+that would resemble real automotive
+assembly. The movements are extremely
+controlled and discreet. Nothing in the
+footage indicates a sort of adaptive
+real-time autonomy that would be
+required to operate on the actual
+assembly line. Remember when we looked
+at the video of the industrial welding
+robots earlier? There are cages
+surrounding each robot for safety
+reasons. The figure video lacks any
+visible safety gauges, thus indicating
+it is not operating near any human
+workers. The workspace looks more like a
+pilot cell or a stage recording area
+rather than part of a functioning
+assembly line. The parts being handled
+are trivial and non-critical, precisely
+the kind typically used for marketing
+demonstrations because there's little
+room for embarrassment if the robot
+makes a mistake. The sheet metal pieces
+are in the exact same position and the
+robot's hand makes the same pose with no
+visible perception, no correction
+motions, and no evidence of the robot
+responding to variation. This strongly
+suggests a fixed script, a tea operator,
+or playback of recorded trajectories
+rather than true autonomous performance.
+This is October of 2025, almost 2 years
+after they signed the partnership with
+BMW, and this is all they have. In
+addition to working in factories, Figure
+also envisages its robots being able to
+do household chores. In February of
+2025, they unveiled something they call
+Helix. Helix is a new software upgrade,
+which they claim incorporates advanced
+AI. With Helix, the robot can perceive,
+reason, take language commands, and act
+in unstructured environments. In July of
+2025, Brett Adcock posted the following
+on Twitter. Here's a figure 2 in my home
+using Helix to do my laundry. It
+includes a video filmed by Adcock.
+Adcock can be heard saying, quote, "A
+figure 2 humanoid robot doing laundry in
+the Adcock house," unquote. The video
+includes two young children who are
+presumably his kids. Adcock says the
+robot is not teaoperated. It's running
+Helix, which is a neural network. In
+other words, the robot is being powered
+by AI and doing things autonomously.
+Let's analyze this video from the Adcock
+house in detail. The robot is loading
+laundry into a gray electrolux washing
+machine. The floor has very distinctive
+hexagonal tiles. We can also see the
+hallway. It's a narrow hallway with a
+light colored hardwood floor. This is
+supposedly the Adcock house. The house
+where Brett Adcock and his family lives.
+The implication is that the figure robot
+with his helix artificial intelligence
+is so advanced that it can be used to do
+real things in a real house.
+A few months later, in October of 2025,
+Figure unveiled its latest robot model
+called Figure 3. They published this
+demonstration video. According to CNET,
+the demo was filmed at the company's
+home testing facility in Northern
+California. The inside of the home is
+incredibly clean. There's no random junk
+sitting around like you would expect in
+a real house where people live. There's
+a toy on the table and a stuffed animal
+on the couch, but these were
+intentionally placed so the robot can
+pick them up. This is clearly a testing
+or demonstration facility, not a real
+house where people live. We see the
+robot walking around the house. Notice
+the light colored hardwood floor. Also,
+take note of this red abstract painting
+in the living room. The robot eventually
+walks to the laundry room. We can see a
+narrow hallway that goes to the living
+room. We can see the same red abstract
+painting we saw in the living room in
+the earlier clip. So, we know we're
+still in the same house. This house is a
+testing or demo facility, not a real
+house where anybody lives. And when we
+look in the laundry room, what do we
+see? Hexagonal tiles in a gray
+Electrolux washing machine. Does this
+sound familiar? This is the exact same
+laundry room that Adcock claimed was in
+his personal house back in July. Adcock
+was lying. This was not in the Adcock
+house. This was at Figure's home testing
+facility. Adcock took his kids to the
+testing facility so he could film a fake
+video pretending that it was at his
+house. Many media outlets fell for this
+deception. For example, Futurism
+published this article two days after
+Adcock's fake Twitter video. Quote,
+"Wild video shows humanoid robot loading
+a washing machine pretty well. First
+time seeing a humanoid robot actually
+doing a task in a home." But this was
+not in a home. This was in a controlled
+testing facility. So, why did Adcock
+take his kids to the testing facility to
+film the video? Why not just take the
+robot to his house? You only lie if you
+have something to hide. The robot
+supposedly uses the advanced Helix
+artificial intelligence software. The AI
+is supposed to be able to observe its
+surroundings and adapt to any
+environment. This is a requirement to be
+commercially useful. The inside of
+everybody's house and laundry room is
+unique. Figures home testing facility is
+a controlled environment. You don't need
+any artificial intelligence. You can
+hardcode the robot to do the exact
+movements it needs to do for the demo
+video. This is not impressive. This is
+not cuttingedge technology, and it's
+certainly not useful. All the way back
+in the 2000s, Honda was trying to
+develop a humanoid robot called the
+Aimo. In 2010, they published what
+looked like a very impressive demo
+video. The Aimo conducted the Detroit
+Symphony Orchestra. As impressive as
+this demonstration appeared, the Aimo
+was a commercial failure. Honda
+eventually ceased development of Aimo,
+having never sold a single one. It was
+painstakingly hard-coded to conduct just
+that one song. It didn't have the
+intelligence to learn anything on its
+own, so it was pretty much useless. It
+would be much cheaper to hire a real
+human conductor who can learn to conduct
+any song instead of having a team of
+engineers hardcode the Aimo for each
+song that it conducts. If the figure
+robot could actually do laundry in a
+real person's house, that would indeed
+be impressive. Now, we know this is
+fake. This leads me to believe that the
+figure robot is no more capable than
+Honda's failed to see robot was 15 years
+ago.
+At the beginning of this video, we
+watched a clip of Sam Alman saying that
+humanoid robots will soon take
+everyone's jobs. Remember that OpenAI is
+an investor in figure AI. This whole
+narrative that AI is going to take your
+job is an artifist to fool the gullible.
+Sam Alman, the benevolent tech overlord,
+is sounding the alarm, warning society
+about this impending economic
+disruption. The implication being that
+this technology is so powerful and
+valuable that you should invest your
+money into AI startups like OpenAI and
+Figure AI. We can expect Altman's
+narratives to become even more grandiose
+going into OpenAI's expected IPO next
+year. The reality is far less alarming
+and far less exciting. Unless your job
+is to load laundry into a washing
+machine in a controlled environment in
+one specific pre-programmed testing
+facility, your job is not going to be
+taken by a robot.
+All right, guys, that wraps it up for
+this video. What do you think about
+Figure AI? Let us know in the comments
+section below. As always, thank you so
+much for watching and we'll see you in
+the next one. Wall Street Millennial
+signing
