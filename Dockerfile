@@ -5,20 +5,17 @@ WORKDIR /app
 # Copy package files
 COPY package*.json ./
 
-# Install dependencies including express
+# Install dependencies
 RUN npm ci --only=production
 
-# Install TypeScript and build dependencies as dev dependencies
-RUN npm install
+# Install TypeScript globally for building
+RUN npm install -g typescript
 
 # Copy source code
 COPY . .
 
 # Build TypeScript files
-RUN npm run build
-
-# Remove dev dependencies to reduce image size
-RUN npm prune --production
+RUN tsc
 
 # Expose port
 EXPOSE 8080
