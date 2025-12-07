@@ -5,16 +5,16 @@ const fs = require('fs');
 const app = express();
 const PORT = process.env.PORT || 8080;
 
+// Serve homepage.html as the default route (BEFORE static middleware)
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, 'homepage.html'));
+});
+
 // Serve static files from the root directory
 app.use(express.static(__dirname));
 
 // Serve the dist directory for compiled JS files
 app.use('/dist', express.static(path.join(__dirname, 'dist')));
-
-// Serve homepage.html as the default route
-app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, 'homepage.html'));
-});
 
 // Catch all other routes and send 404
 app.get('*', (req, res) => {
