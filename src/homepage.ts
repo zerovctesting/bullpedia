@@ -6,8 +6,8 @@ interface PageRanking {
 }
 
 const rankings: PageRanking[] = [
-    { rank: 1, title: "Jesse Lyu", url: "jesse.html", score: 9950 },
-    { rank: 2, title: "Brett Adcock", url: "index.html", score: 9900 }
+    { rank: 1, title: "Brett Adcock", url: "index.html", score: 375 },
+    { rank: 2, title: "Jesse Lyu", url: "jesse.html", score: 350 }
 ];
 
 function renderRankings(): void {

@@ -57,3 +57,99 @@ main p {
     margin-bottom: 15px;
     text-align: justify;
 }
+
+/* Risk Assessment Styles */
+.risk-assessment {
+    margin-bottom: 30px;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    border: 1px solid #a2a9b1;
+}
+
+.max-risk-warning {
+    background-color: #dc3545;
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 16px;
+}
+
+.risk-score {
+    background-color: #6c757d;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+}
+
+/* Claim Item Styles */
+.claim-item {
+    margin-bottom: 25px;
+    padding: 15px;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.claim-title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.severity-badge {
+    color: white;
+    padding: 4px 8px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.claim-vs-reality {
+    margin-bottom: 15px;
+}
+
+.claim-section {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #fff5f5;
+    border-left: 4px solid #dc3545;
+    border-radius: 3px;
+}
+
+.reality-section {
+    padding: 10px;
+    background-color: #f8fff8;
+    border-left: 4px solid #28a745;
+    border-radius: 3px;
+}
+
+.evidence-section {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 3px;
+}
+
+.evidence-section ul {
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.evidence-section li {
+    margin-bottom: 3px;
+}
+
+.source-info {
+    text-align: right;
+    font-style: italic;
+    color: #6c757d;
+}
